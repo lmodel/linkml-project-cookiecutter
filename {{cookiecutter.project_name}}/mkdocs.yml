@@ -13,7 +13,6 @@ theme:
 plugins:
   - search
   - mkdocs_pymdownx_material_extras
-  - mermaid2
   - mermaid2:
       version: 10.9.0
   - mermaid2:
